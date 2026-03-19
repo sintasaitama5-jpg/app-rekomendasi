@@ -1,9 +1,0 @@
-{
-  "name": "app-rekomendasi",
-  "version": "1.0.0",
-  "description": "App Rekomendasi API",
-  "type": "module",
-  "scripts": {
-    "start": "node api/recommend.js"
-  }
-}
